@@ -1,1 +1,1 @@
-# JavaScript-Github.RepoStatus
+# Github.RepoStatus
